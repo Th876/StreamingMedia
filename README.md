@@ -1,6 +1,10 @@
-![Desktop version of MuzakMaker](streaming-media-web.png) 
-<!--![Mobile version of MuzakMaker](streaming-media-mobile.png| width=100)-->
+<h3>Desktop Version</h3>
+<img src="/streaming-media-web.png" alt="Desktop version of MuzakMaker">
+<hr>
+<h3>Mobile Version</h3>
+<img src="/streaming-media-mobile.png" alt="Mobile version of MuzakMaker">
 
+<h3>About MuzakMaker</h3>
 <p> MuzakMaker is a responsive website that is dedicated to displaying a curation of the soothing sounds of Jazz music.This website was completed as a class assignment at Arizona State University. This is the <a href= "https://thiggin7.github.io/streamingmedia/">link</a> to my website.</p>
 <hr></hr>
 
